@@ -1,0 +1,42 @@
+<html>
+ <head>
+ <title>day2</title>
+  </head>
+   <body>
+    <h3>subscript and superscript</h3>
+	<p>h<sub>2</sub>0</p>
+	<p>3<sup>3</sup>=9</p>
+	<pre> this is pretag</pre>
+	<p> del <del> this is delet  tag</del>
+	<p>this is <strike>strike tag</strike></p>
+	<ptitle=silver oak uni">socet</p> <hr>
+	<p>abbr </p>
+	<abbr title="silver oak university"> socet</abbr><hr>
+	<figure>
+	<img src="C:\photo\ss.png" width="400px" height="200px" alt="img">
+	</figure>
+    <hr>	
+	<figcaption>ss</figcaption>
+	<hr>
+	<div> no margin, new line</div>
+	<div> no margin, new line</div>
+	<div> no margin, new line</div>
+	<hr>
+	<span>no margin, no new line</span>
+	<span>no margin, no new line</span>
+	<span>no margin, no new line</span>
+	<hr>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<p> silver &nbsp;&nbsp;&nbsp;&nbsp oak </p> <hr>
+	<u> underline </u>
+	<ins> insertion </ins>
+	<hr>
+	<q> quotes</q>
+	<video src="./video.mp4" alt="this is video"></video><hr>
+	<audio src="./audio.mp3" alt="this is audio"></audio>
+    </body> 
+</html>	
+  

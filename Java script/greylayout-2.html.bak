@@ -1,0 +1,123 @@
+<html>
+<head>
+<title> GRAY LAYOUT 2 </title>
+<style>
+div{
+ font-size :20px ;
+ }
+ #r1{
+ height :100px;
+ width : 98%;
+ float:left;
+ background-color:grey ; 
+ margin-bottom: 10px;
+ }
+  #r1c1{
+ height :100px;
+ width : 40%;
+ text-align :left;
+ line-height : 140px;
+ background-color:grey ; 
+ color : black ;
+ margin-bottom : 10px ;
+ float:left;
+
+ }
+  #r1c2{
+ height :100px;
+ width : 58%;
+ text-align : left;
+ line-height : 140px ;
+ background-color:grey ; 
+ color : black ;
+ margin-bottom : 10px ;
+ float:left;
+ }
+ 
+  #r2{
+ height :140px;
+ width : 98%;
+ line-height : 140px;
+ text-align : center;
+ background-color:grey ; 
+ color : black ;
+ margin-bottom : 10px ;
+ float:left;
+ }
+ 
+   #r3{
+ height :120px;
+ width : 98%;
+ text-align : center;
+ line-height : 120px;
+ background-color:grey ; 
+ color : black ;
+ margin-bottom : 10px ;
+ float:left }
+ 
+   #r4{
+ height :300px;
+ width : 98%;
+ line-height :300px;
+ margin-bottom : 10px ;
+}
+ 
+   #r4c1{
+ height :300px;
+ width : 32.33%;
+text-align : center ;
+ line-height : 300px;
+ background-color:grey ; 
+
+ margin-bottom : 10px ;
+ float:left;}
+ 
+   #r4c2{
+ height :300px;
+ width : 32.33%;
+text-align : center;
+ line-height : 300px;
+ margin-left : 1.5%;
+ background-color:grey ; 
+
+ margin-bottom : 10px ;
+ float:left; }
+ 
+   #r4c3{
+ height :300px;
+ width : 32.33%;
+ text-align : center ;
+ line-height : 300px; 
+ margin-left : 1.5% ;
+ background-color:grey ; 
+ margin-bottom : 10px ;
+ float:left; }
+ 
+   #r5{
+ height :50px;
+ width : 98%;
+ text-align : center;
+ line-height : 50px;
+ background-color:grey ; 
+ color : black ;
+ margin-bottom : 10px ;
+ float:left; }
+ 
+</style>
+</head>
+<body>
+<div id = "r1"> 
+<div id  = "r1c1"> Logo </div>
+<div id = "r1c2" > Navigation </div>
+</div>
+<div id = "r2"> Header / Banner </div>
+<div id = "r3"> Intro text area </div>
+<div id = "r4">
+<div id = "r4c1"> Box 1 </div>
+<div id = "r4c2"> Box 2 </div>
+<div id = "r4c3"> Box 3 </div></div>
+<div id = "r5"> Footer </div>
+
+
+</body>
+</html>

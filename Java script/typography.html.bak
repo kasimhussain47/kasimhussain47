@@ -1,0 +1,51 @@
+<html>
+ <head>
+ <title>day2</title>
+  </head>
+   <body><hr/>
+    <h3>subscript and superscript</h3>
+	<p>h<sub>2</sub>0</p>
+	<p>3<sup>3</sup>=9</p><hr/>
+	<p> pre tag</p>
+	<pre> geek portal</pre><hr/>
+	<p>delet tag</p>
+	<p> del <del>delet</del>
+	<p>strike tag</p>
+	<p>this is <strike>strike</strike></p><hr/>
+	<p> abbrevation tag</p>
+	<abbr title="silver oak university">sou</abbr>
+	<p> acronym tag</p>
+	<acronym  title="silver oak">sou</acronym>
+	<hr/>
+	<p>div tag</p>
+	<div> no margin, new line</div>
+	<div> no margin, new line</div>
+	<div> no margin, new line</div>
+	<hr>
+	<p> span tag </p>
+	<span>no margin, no new line</span>
+	<span>no margin, no new line</span>
+	<span>no margin, no new line</span>
+	<hr/>
+	<p> block quote tag</p>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<blockquote>new line,left margin,right margin,top margin,bottom margin</blockquote>
+	<p> silver &nbsp;&nbsp;&nbsp;&nbsp oak </p> <hr>
+	<p>underline tag</p>
+	<u> silver oak university </u><br><hr/>
+	<p>insertion tag</p>
+	<ins> silver oak </ins>
+	<hr/>
+	<p> quotes tag</p>
+	<q> wow </q><br><hr/>
+	<p>italic tag</p>
+	<i> hello </i><br><hr/>
+	<p>emphasis tag</p>
+	<em> emphasis</em><br><hr/>
+	<p> defination tag </p>
+	<dfn> HTML </dfn>is the markup langusage for creating web pages<hr/>
+    </body> 
+</html>	
+  

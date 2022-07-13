@@ -1,0 +1,55 @@
+
+<html>
+<head>
+<title> Animation</title>
+</head>
+<style>
+#transxy
+{
+transform:
+translate (200px, 150px)
+}
+#rotate
+{
+height
+: 50px:
+width : 1000x;
+transform:
+rotate (45deg) :
+}
+#rotate3d
+{
+height : 50px:
+width
+:100px:
+transform:
+rotate3d (90, 20, 20, 45deg)
+}
+#opacity
+{
+opacity: 0.5
+}
+#overflow
+{
+height: 100px
+width: 100px;
+overflow:auto
+}
+#borderradius
+{
+height: 200px;
+width:
+200px :
+border-radius:
+20px ;
+padding:
+20px ;
+background-color:pink;
+margin-top : 40px :
+}
+</style>
+</head>
+<body>
+
+</body>
+</html>

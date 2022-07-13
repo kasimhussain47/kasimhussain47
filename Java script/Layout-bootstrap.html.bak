@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Gray layout bootstrap</title>
+<link href="CSS/bootstrap/bootstrap.css" Rel="Stylesheet"/>
+<style>
+</style>
+</head>
+<body>
+<div class="container-fluid">
+			<div class="row">
+			<div class="col-lg-12" style="background-color:gray; padding-left:10px; padding-top:20px; height:60px; margin-bottom:10px;">Logo</div>
+				</div>
+			<div class="row">
+			<div class="col-lg-12" style="background-color:gray; padding-left:10px; padding-top:20px; height:60px;margin-bottom:10px; text-align:center;">Navigation</div>
+                </div>
+				<div class="row">
+			<div class="col-lg-12" style="background-color:gray; padding-left:10px; padding-top:20px; height:60px;margin-bottom:10px;text-align:center;">Header</div>
+                </div> 
+				<div class="row">
+			<div class="col-lg-3" style="background-color:gray; padding-top:100px; height:300px;margin-bottom:10px;text-align:center;">Side bar</div>
+            <div class="col-lg-8 text-center offset-1" style="background-color:gray; padding-top:100px; height:300px;margin-bottom:10px;text-align:center;">body Area</div>
+                </div>
+</div>				
+</body>
+</html>
